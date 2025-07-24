@@ -11,8 +11,7 @@ HASHTAGS = "End with 4–6 topical tags + #SynPhNe."
 FEATURES = (
     "Our system integrates EEG and EMG in real time to rehabilitate cognition and motor function together.",
     "Therapists receive real-time feedback on neuromuscular activity to adjust rehab in the moment.",
-    "Progress is tracked using objective, measurable data—not guesswork.",
-    "Sessions adapt to patient performance and support telerehab delivery."
+    "Progress is tracked using objective, measurable data—not guesswork."
 )
 
 
