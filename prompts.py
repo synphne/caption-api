@@ -25,7 +25,7 @@ Your goal: Raise awareness about {topic} as it relates to stroke/TBI recovery.
 Structure:
 1. Start with a consice, clear, factual headline in title case (no emojis). Use active voice and not very dramatic openings.
 2. Write 2–3 concise, clinically-informed sentences on how this topic matters to neurorehab. Use accessible yet precise language. Do not be vague, add clinical relevance and specify what is missing. 
-3. Where relevant, include 1–2 features of our system (EEG/EMG integration, objective progress tracking, real-time feedback, etc.) woven into the narrative — not as a bulleted list.
+3. Where relevant, include 1–2 features of our system {FEATURES} woven into the narrative, not as a bulleted list.
 4. End with a grounded CTA: Invite readers to learn more, share insights, or comment.
 5. Add 4–5 appropriate hashtags, ending with **#SynPhNe**.
 
