@@ -37,6 +37,7 @@ SYSTEM_MESSAGE = (
     "• Use American English spelling\n\n"
     "Never:\n"
     "• Use too many commas in the caption, it should be easy to read\n"
+    "• Use the word 'journey'\n"
     "• Use the em dash\n"
     "• Use unsubstantiated claims or emotional buzzwords\n"
     "• Over-promise outcomes or exaggerate capabilities\n"
