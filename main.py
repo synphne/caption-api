@@ -19,7 +19,7 @@ from prompts import (
 # 1 · Config & Key
 # -----------------------
 load_dotenv()
-openai.api_key = os.getenv("OPENAI_API_KEY")
+openai.api_key= st.secrets["API_KEY"]
 
 st.set_page_config(page_title="SynPhNe GPT Assistant", layout="centered")
 
