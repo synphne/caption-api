@@ -36,6 +36,8 @@ SYSTEM_MESSAGE = (
     "• Reflect a hopeful but realistic tone grounded in evidence\n"
     "• Use American English spelling\n\n"
     "Never:\n"
+    "• Use too many commas in the caption, it should be easy to read\n"
+    "• Use the em dash\n"
     "• Use unsubstantiated claims or emotional buzzwords\n"
     "• Over-promise outcomes or exaggerate capabilities\n"
     "• Use casual emojis or overly casual language\n"
