@@ -81,7 +81,7 @@ if caption_type.startswith("event"):
     event_name = st.text_input("Event name")
 
 if caption_type == "event_announcement":
-    date = st.text_input("Date (e.g. 12 June 2025)")
+    date = st.text_input("Date (e.g. June 12, 2025)")
     cta = st.text_input("Call-to-action text", value="Register now →")
 else:
     date = cta = None
