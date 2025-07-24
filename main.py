@@ -38,7 +38,7 @@ SYSTEM_MESSAGE = (
     "Never:\n"
     "• Use too many commas in the caption, it should be easy to read\n"
     "• Use the word 'journey'\n"
-    "• Use the em dash\n"
+    "• Use the em das. NEVER EVER USE '—' h\n"
     "• Use unsubstantiated claims or emotional buzzwords\n"
     "• Over-promise outcomes or exaggerate capabilities\n"
     "• Use casual emojis or overly casual language\n"
