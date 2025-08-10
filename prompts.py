@@ -15,7 +15,11 @@ FEATURES = (
     "Task-Specific Therapy – Allows therapists to design exercises that mimic real-life activities, improving carryover to daily living.",
     "Data Export & Reporting – Generates easy-to-read reports for clinical documentation, progress reviews, and communication with payers or referring physicians.",
     "Promotes a Positive Patient Feedback Loop – Even when muscle activation isn’t visible to the naked eye, the software provides real-time visual feedback, reinforcing progress and motivating the patient.",
-    "Secondary SynPhNe Features (I do not want a lot of content about this): Portable & Tabletop Design – Small footprint makes it suitable for use in clinics, rehab centers, and even home-based settings."
+    "Secondary SynPhNe Features (I do not want a lot of content about this): Portable & Tabletop Design – Small footprint makes it suitable for use in clinics, rehab centers, and even home-based settings.",
+    "Our system integrates EEG and EMG in real time to rehabilitate cognition and motor function together.",
+    "Therapists receive real-time feedback on neuromuscular activity to adjust rehab in the moment.",
+    "Progress is tracked using objective, measurable data"
+
 )
 
 
@@ -27,8 +31,8 @@ Your goal: Raise awareness about {topic} as it relates to stroke/TBI recovery.
 
 Structure:
 1. Start with a consice, clear, factual headline in title case (no emojis). Use active voice and not very dramatic openings.
-2. Write 2–3 concise, clinically-informed sentences on how this topic matters to neurorehab. Use accessible yet precise language. Do not be vague, add clinical relevance and specify what is missing. 
-3. Where relevant, include 1–2 features of our system {FEATURES} woven into the narrative, not as a bulleted list.
+2. Write 2–3 concise, clinically-informed sentences on how this topic matters to neurorehab. Use accessible yet precise language. Do not be vague, add clinical relevance, and specify what is missing. 
+3. Where relevant, include 1–2 features of our system {FEATURES} woven into the narrative, not as a bulleted list. Choose ones that fit to what you are talking about and not just the first two'
 4. End with a grounded CTA: Invite readers to learn more, share insights, or comment.
 5. Add 4–5 appropriate hashtags, ending with **#SynPhNe**.
 6. Do not use ';' or many sentences with commas. Only when it is REALLY needed but always prioritize sentences that do not need commas
