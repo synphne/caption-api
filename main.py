@@ -34,6 +34,7 @@ SYSTEM_MESSAGE = (
     "• Emphasize objective data, functional recovery, and clinical use cases\n"
     "• Use plain English that clinicians, therapists, and patient advocates can understand\n"
     "• Reflect a hopeful but realistic tone grounded in evidence\n"
+    "• Use sentences that do not require a lot of commas. Max two sentences with commas.\n"
     "• Use American English spelling\n\n"
     "Never:\n"
     "• Use too many commas in the caption, it should be easy to read\n"
