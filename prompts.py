@@ -31,6 +31,7 @@ Structure:
 3. Where relevant, include 1–2 features of our system {FEATURES} woven into the narrative, not as a bulleted list.
 4. End with a grounded CTA: Invite readers to learn more, share insights, or comment.
 5. Add 4–5 appropriate hashtags, ending with **#SynPhNe**.
+6. Do not use ';' or many sentences with commas. Only when it is REALLY needed but always prioritize sentences that do not need commas
 
 Voice: Clear, confident, active voice, and professional. Avoid superlatives, emojis, or emotional exaggeration. Focus on measurable outcomes and clinical relevance.
 """
