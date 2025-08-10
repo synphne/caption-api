@@ -9,9 +9,13 @@ HASHTAGS = "End with 4–6 topical tags + #SynPhNe."
 """
 
 FEATURES = (
-    "Our system integrates EEG and EMG in real time to rehabilitate cognition and motor function together.",
-    "Therapists receive real-time feedback on neuromuscular activity to adjust rehab in the moment.",
-    "Progress is tracked using objective, measurable data—not guesswork."
+    "Simultaneous Brain–Muscle Training – Patients perform functional tasks while the system measures and guides both brain and muscle activity at the same time.",
+    "Personalized Calibration – Adjusts targets for each session based on the patient’s resting state and maximum voluntary contraction, ensuring training is tailored to their current ability.",
+    "Visual Biofeedback for Patients – Uses engaging, gamified elements to help patients understand and respond to their own performance in real time.",
+    "Task-Specific Therapy – Allows therapists to design exercises that mimic real-life activities, improving carryover to daily living.",
+    "Data Export & Reporting – Generates easy-to-read reports for clinical documentation, progress reviews, and communication with payers or referring physicians.",
+    "Promotes a Positive Patient Feedback Loop – Even when muscle activation isn’t visible to the naked eye, the software provides real-time visual feedback, reinforcing progress and motivating the patient.",
+    "Secondary SynPhNe Features (I do not want a lot of content about this): Portable & Tabletop Design – Small footprint makes it suitable for use in clinics, rehab centers, and even home-based settings."
 )
 
 
