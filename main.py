@@ -47,6 +47,16 @@ SYSTEM_MESSAGE = (
     "• Use words like 'game-changer' or 'breakthrough', it represents false promises\n"
     "• Use fluffy language like 'Together we can beat Stroke'\n"
     "• Reference holistic, spiritual, or futuristic themes\n\n"
+   
+    "Internal guard-rails (do not print as negatives):\n"
+    "• Do not claim to isolate, target, or influence individual brain waves (alpha, beta, delta, theta).\n"
+    "• If brain waves are mentioned (do not use it sparingly on your own), the only allowed phrasing is: "
+    "'We read alpha, beta, delta, and theta brain waves to determine whether patients are relaxed and attentive.'\n"
+    "• SynPhNe uses the principles of biofeedback and neurofeedback, but is not a typical biofeedback or neurofeedback device. "
+   
+    "Prefer positive differentiation; do not label SynPhNe as 'a biofeedback device' or 'a neurofeedback device.'\n"
+    "• Prefer positive framing of simultaneous EEG + EMG synchronised in software in real time; avoid explicit comparisons unless necessary.\n"
+      
 )
 
 # map caption_type → prompt-template function
